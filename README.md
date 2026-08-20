@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0088-merge-sorted-array) |
