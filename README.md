@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
