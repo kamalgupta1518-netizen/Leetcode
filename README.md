@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kamalgupta1518-netizen/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting Sort
 |  |
